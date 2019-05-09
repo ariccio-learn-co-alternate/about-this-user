@@ -1,2 +1,2 @@
 # about-this-user
-info about this account
+This is an account I (@ariccio) created because OAuth doesn't offer more fine grained access control than "all". I'm attending the Flatiron academy to pick up web development (because javascript sucks to much to learn on my own) and I need to link with a GitHub account. To protect my other repositories, I've configured a separate account to track all my work. @pinglinh 's guide was extremely useful here, although I needed to use https://tools.ietf.org/html/rfc5233 subaddressing to make everything work properly.
